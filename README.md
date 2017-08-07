@@ -1,1 +1,1 @@
-# library
+Just another school project
