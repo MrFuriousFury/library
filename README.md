@@ -1,1 +1,1 @@
-Just another school project
+just another school project
